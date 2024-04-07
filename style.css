@@ -1,0 +1,28 @@
+header{
+    padding: 24px;
+    background-color: #6AD4DD;
+    text-align: center;
+}
+
+body {
+    background-color: #97E7E1;
+}
+
+.container {
+    width: 80%;
+    margin: 1px auto;
+    max-width: 648px;
+    margin-top: 32px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+button {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+header h1 {
+    color: #fff;
+}
+
